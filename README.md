@@ -1,5 +1,4 @@
-- <img src="<img width="1280" height="640" alt="github_banner_enhanced_v4" src="https://github.com/user-attachments/assets/7d5fe855-891f-4305-b041-219092d48bd2" />
-" />
+- <img width="1280" height="640" alt="github_banner_enhanced_v4" src="https://github.com/user-attachments/assets/7d5fe855-891f-4305-b041-219092d48bd2" />
 
 ```python
 print("Hello World!");
