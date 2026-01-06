@@ -12,3 +12,4 @@ print("Hello World!");
 - 🌱 I’m actively learning: `Python`, `TensorFlow/PyTorch`, `Data Structures`, and `Software Development Principles`.
 
 ![Sobhan GitHub stats](https://github-readme-stats111-alpha.vercel.app/api?username=sobhan0nasiri&show_icons=true&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
