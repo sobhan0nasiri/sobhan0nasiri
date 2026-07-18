@@ -11,4 +11,4 @@ print("Hello World!");
 - 🔭 I’m currently exploring the vast worlds of **Machine Learning**, **Deep Learning**, and **Data Mining**.
 - 🌱 I’m actively learning: `Python`, `TensorFlow/PyTorch`, `Data Structures`, and `Software Development Principles`.
 
-![Sobhan GitHub stats](https://github-readme-stats111-alpha.vercel.app/api?username=sobhan0nasiri&show_icons=true&theme=dark)
+//![Sobhan GitHub stats](https://github-readme-stats111-alpha.vercel.app/api?username=sobhan0nasiri&show_icons=true&theme=dark)
